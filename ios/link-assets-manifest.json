@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Al Qalam Quran Majeed Web2_D.otf",
+      "sha1": "804dc849ba719b30ca260603800663ce690cbbf5"
+    },
+    {
+      "path": "src/assets/fonts/AlQalamQuranMajeedWeb2_D.otf",
+      "sha1": "bb8c21223ad071a75fe99485588294decd8dbf55"
+    },
+    {
+      "path": "src/assets/fonts/Jameel-Noori-Nastaleeq.ttf",
+      "sha1": "d65900524be6524ed17f232c3d5bbc88095a3bdf"
+    },
+    {
+      "path": "src/assets/fonts/Noore-Huda.ttf",
+      "sha1": "7dc541c91bb5b02b1036821d35bd2c5a5316118f"
+    }
+  ]
+}
